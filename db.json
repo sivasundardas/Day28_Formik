@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "demo",
+      "email": "demouser@email.com",
+      "password": "demo123",
+      "confirmPasswrod": "demo123"
+    },
+    {
+      "id": "1db8",
+      "username": "Bhuvaneswari",
+      "email": "bhuvana@gmail.com",
+      "password": "bhuvana",
+      "confirmPassword": "bhuvana"
+    },
+    {
+      "id": "5a9b",
+      "username": "Testing",
+      "email": "testing@gmail.com",
+      "password": "test123",
+      "confirmPassword": "test123"
+    },
+    {
+      "id": "c2cb",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "confirmPassword": "admin123"
+    }
+  ],
+  "courses": [
+    {
+      "title": "React Working",
+      "description": "Learn React fundamentals including components, state and props",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Advanced JavaScript",
+      "description": "Deep dive into ES6+, closures and asynchronous programming"
+    },
+    {
+      "id": "3",
+      "title": "Python for Data Science",
+      "description": "Work with NumPy, Pandas and Data Visualization"
+    },
+    {
+      "title": "Web development using HTML5",
+      "description": "Skills are HTML, CSS, Bootstrap, JS",
+      "id": "8828"
+    }
+  ]
+}
